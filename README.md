@@ -1,3 +1,7 @@
+<p align="center">
+    Flutter app - The xylophone - musical instrument
+</p>
+
 # xylophone
 
 A new Flutter project.
